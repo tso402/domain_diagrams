@@ -1,0 +1,27 @@
+As an office worker
+So I can record useful information
+I want to be able to create a text note
+
+Nouns - Note
+Verb - create
+
+As an office worker
+So I can carry all my useful information
+I want to keep all my notes in a notebook.
+
+Nouns - Notebook, Note
+Verb - keep_note
+
+As an office worker
+So I can categorise a note
+I want to be able to add a tag (only one tag) to a note
+
+Noun - Note, Tag
+Verb - add_tag
+
+As an office worker
+So I can find notes on a certain topic
+I want to be able to search for all the notes with a specific tag
+
+Nouns - Note, Tag
+Verb - search
